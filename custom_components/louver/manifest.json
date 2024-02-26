@@ -1,0 +1,10 @@
+{
+    "domain": "louver",
+    "name": "Hapedo Louver Control",
+    "codeowners": [@hapedo],
+    "dependencies": [],
+    "documentation": "https://github.com/hapedo/ha_ESPLouverControl/",
+    "iot_class": "assumed_state",
+    "requirements": [],
+    "version": "0.1.0"
+}

@@ -1,0 +1,1 @@
+"""Hapedo louver control integration."""
