@@ -1,0 +1,7 @@
+{
+  "name": "Hapedo Louver Control",
+  "content_in_root": false,
+  "render_readme": false,
+  "domains": ["cover"],
+  "homeassistant": "2021.4"
+}
